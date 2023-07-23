@@ -1,0 +1,4 @@
+How to set up yur VScode profesionally.
+- install 'prettier' in your vscode and ensure your install it. 
+- define prettier as the defult formatter inn your vscode
+- ensure that your format on save is on.
